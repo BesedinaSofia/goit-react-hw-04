@@ -1,0 +1,29 @@
+.body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+}
+
+.header {
+  padding: 1rem;
+  background-color: #8194db;
+}
+
+.form {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 300px;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
